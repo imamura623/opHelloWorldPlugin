@@ -1,0 +1,7 @@
+homeSuccess:
+  customize:
+    helloworld:
+      template: [HelloWorld, helloWorld]
+      parts:    [partsHeading]
+      target:   [bodyBottom]
+      is_component: true

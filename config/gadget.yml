@@ -1,0 +1,6 @@
+helloListBox:
+  caption:
+    ja_JP: "Hello World"
+  description:
+    ja_JP: "Hello World"
+  component: [HelloWorld, helloListBox]
